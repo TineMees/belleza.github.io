@@ -1,0 +1,98 @@
+/* =========================================
+    Default Theme
+    ----------------------------------------
+    Fonts: Raleway & Open Sans
+    font-family: 'Raleway', sans-serif;
+    ----------------------------------------
+    Colors:
+        Moon Yellow:         #f4c613
+      	White:               #fff
+         
+============================================ */
+
+main{
+  background-color: 
+}
+
+body{
+	color: #5c3328;
+}
+
+h2{
+	font-family: Raleway & Open sans-serif;
+}
+
+@font-face {
+  font-family: myFirstFont;
+  src: url(sansation_light.woff);
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+
+}
+
+*{
+	box-sizing: border-box;
+}
+
+
+.frieten{
+  border-radius: 200px;
+  max-width: 150px;
+
+}
+
+.bg-dark{
+  background-color: #fab522 !important;
+}
+
+
+.hamburger{
+    border-radius: 200px;
+    max-width: 150px;
+}
+
+.kroket{
+    border-radius: 200px;
+    max-width: 150px;
+}
+
+.carousel-photo1{
+  background: url("img/sfeer.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+.carousel-photo2{
+  background: url("img/bakjefriet.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+.carousel-photo3{
+  background: url("img/menu.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+.nav-link{
+  color: #5c3328 !important;
+}
+
+.active{
+  color:  #5c3328 !important;
+}
+
+header{
+  font-family: Goldman;
+  color: #5c3328;
+
+}
+h2{
+  font-family: Goldman;
+}
+
+/* =========================================
+
+				RESPONSIVE		
+============================================ */
+
