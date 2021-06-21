@@ -83,12 +83,13 @@ img{
 }
 
 header{
-  font-family: Goldman;
+  font-family: 'Goldman', cursive;
   color: #5c3328;
 
 }
 h2{
-  font-family: Goldman;
+  
+	font-family: 'Goldman', cursive;
 }
 
 /* =========================================
